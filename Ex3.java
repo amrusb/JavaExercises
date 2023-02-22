@@ -1,3 +1,10 @@
+/**
+ * Program generuje macierz z dlugosciami bokow, a nastepnie sprawdza
+ * czy z tych bokow mozna zbudowac trojkat i podaje pole oraz boki trojkata o najmniejszym polu
+ * @author Bartosz Surma
+ * @version 22-02-2023
+ */
+
 import java.util.Arrays;
 import java.util.Random;
 
@@ -28,7 +35,7 @@ class TriangleData{
     }
 }
 
-public class ex3_lvl1 {
+public class Ex3 {
     /**
      * Rozmiar tablicy n
      */
