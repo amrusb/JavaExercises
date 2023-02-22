@@ -1,0 +1,29 @@
+{
+    // Użyj funkcji IntelliSense, aby uzyskać informacje o możliwych atrybutach.
+    // Najedź kursorem, aby wyświetlić opisy istniejących atrybutów.
+    // Aby uzyskać więcej informacji, odwiedź stronę: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ex2_lvl2",
+            "request": "launch",
+            "mainClass": "ex2_lvl2",
+            "projectName": "PO_7ebd1e41"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex1_lvl1",
+            "request": "launch",
+            "mainClass": "ex1_lvl1",
+            "projectName": "PO_7ebd1e41"
+        }
+    ]
+}
